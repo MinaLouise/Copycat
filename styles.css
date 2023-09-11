@@ -37,6 +37,13 @@
     font-size: 230%;
 }
 
+.freesign{
+    text-align: center;
+    color: white;
+    font-family: sans-serif, cambria, Arial Narrow Bold; 
+
+}
+
 .textboxText {
     font-family: sans-serif, cambria, Bold; 
     color: white;
@@ -156,6 +163,7 @@
     color: white;
     position: relative;
     text-align: center;
+    font-family: sans-serif, cambria, Arial Narrow Bold;
 }
 
 .labeling {
@@ -164,9 +172,19 @@
     left: 200px;
 }
 
+.labeling-gender {
+    color: white;
+    position: relative;
+    left: 200px;
+    margin-right: 1em;
+}
+
+
+
 .radioButtons {
     position: relative;
     margin-left: 25%;
+    font-family: sans-serif, cambria, Arial Narrow Bold;
 }
 
 .existingAccount {
